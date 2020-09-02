@@ -1,7 +1,4 @@
-﻿AOS Project 2 - Implementation of Lamport Mutual Exclusion Protocol
-Members: Manoj Vijay (MXV180000) Gaurav Naresh (GXN180004)
-
-The project consists of the following files:
+The project consists of the following files:
 launcher.sh, cleanup1.sh
 Config.txt
 Test.java - Testing script used to verify the generated output file (CS_time.out)
@@ -26,7 +23,7 @@ Copy the CS_time.out file from the home directory and paste it in the project di
 Compile and Run the Test.java file. This checks for critical section overlapping.
 This proves that the implementation is correct.
 
-The report contains the Experimental Evaluation which is based on several trials. 
-
+
+
 
 
